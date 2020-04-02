@@ -5,7 +5,5 @@
 #### 4.0 CRA Cleanup and Installation
 
 - npx create-react-app name
-
-- add(apollo-boost, react-apollo-hooks, graphql, react-helmet, react-router-dom, styled-components)
-
+- add(apollo-boost, react-apollo-hooks, graphql, react-helmet, react-router-dom, styled-components, react-toastify, react-reset)
 - cleanup files(only need index.js, app.js in src folder)
