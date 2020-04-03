@@ -12,3 +12,18 @@
 
 - react-reset
 - styled-components(createGlobalStyles, ThemeProvider)
+
+#### 4.2 React Router
+
+- react-router-dom(HashROuter, Route, Switch)
+
+#### 4.3 Apollo Client
+
+- LocalState.js change state isLoggedIn
+- use ApolloProvider
+- easy apollo-boost
+
+#### 4.4 First Hooks Query
+
+- apollo-boost(gql)
+- react-apollo-hooks(useQuery)
