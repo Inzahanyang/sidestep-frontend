@@ -39,3 +39,8 @@
 #### 5.3 Auth Form with Hooks
 
 - add Hooks (useInput.js)
+
+#### 5.4 requestSecret Mutation and Refactor
+
+- Auth.js -> AuthContainer.js, AuthPresenter, AuthQueries
+- request API requestSecret
