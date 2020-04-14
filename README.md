@@ -27,3 +27,15 @@
 
 - apollo-boost(gql)
 - react-apollo-hooks(useQuery)
+
+## 5. Frontend: Authorization Routes
+
+#### 5.0 ~ 5.2 Auth Route UI part
+
+- Auth.js useState()
+- styled-components
+- add Footer component in App.js
+
+#### 5.3 Auth Form with Hooks
+
+- add Hooks (useInput.js)
