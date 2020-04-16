@@ -44,3 +44,19 @@
 
 - Auth.js -> AuthContainer.js, AuthPresenter, AuthQueries
 - request API requestSecret
+
+#### 5.5 Toastify and createAccount Mutation
+
+- add react-toastify {ToastContainer, toast}
+- add CREATE_ACCOUTN query
+
+#### 5.6 ~ 5.7 createAccount Mutation part
+
+- useMutation [requestSecretMutation], [createAccountMutation]
+- toast option onClose, autoClose
+
+#### 5.8 confirmSecret + Log In Mutation
+
+- action === confirm
+- confirmSecret -> check email, secret if true get token
+- logUserIn -> localStorage.setItem('token'), isLoggedIn: true
