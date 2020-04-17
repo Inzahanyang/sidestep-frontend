@@ -80,3 +80,8 @@
 
 - add Loader with animation
 - Feed query (seeFeed)
+
+#### 7.1 ~ 7.3 Post Compoenet part
+
+- Post Component (index.js, PostContainer.js, PostPresenter.js)
+- use PropTypes
