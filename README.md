@@ -73,3 +73,10 @@
 - withRouter from react-router-dom(props -> history, match ... need to search input)
 - useQuery Me
 - need to request header with token for login
+
+## 7. Feed
+
+#### 7.0 Getting the Feed and Loader Component
+
+- add Loader with animation
+- Feed query (seeFeed)
