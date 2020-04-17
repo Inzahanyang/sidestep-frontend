@@ -60,3 +60,10 @@
 - action === confirm
 - confirmSecret -> check email, secret if true get token
 - logUserIn -> localStorage.setItem('token'), isLoggedIn: true
+
+## 6. Frontend: Header Component
+
+#### 6.0 Header UI
+
+- use https://iconmonstr.com/
+- Header component
