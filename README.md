@@ -67,3 +67,9 @@
 
 - use https://iconmonstr.com/
 - Header component
+
+#### 6.1 ~ 6.2 Header Login part
+
+- withRouter from react-router-dom(props -> history, match ... need to search input)
+- useQuery Me
+- need to request header with token for login
