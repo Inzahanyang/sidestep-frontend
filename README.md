@@ -85,3 +85,6 @@
 
 - Post Component (index.js, PostContainer.js, PostPresenter.js)
 - use PropTypes
+- add FatText, Avatar component
+- use react-helmet, react-autosize-textarea
+- make silde picture viewer
