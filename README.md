@@ -93,3 +93,9 @@
 
 - toggleLike button + countLikes
 - view first and server
+
+#### 7.5 ~ 7.6 createComment on Post Component part
+
+- \*SharedQueries.js (ME)
+- change useInput Hooks
+- e.which ? e.keyCode
