@@ -88,3 +88,8 @@
 - add FatText, Avatar component
 - use react-helmet, react-autosize-textarea
 - make silde picture viewer
+
+#### 7.4 toggleLike on Post Component
+
+- toggleLike button + countLikes
+- view first and server
