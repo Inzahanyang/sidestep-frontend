@@ -99,3 +99,12 @@
 - \*SharedQueries.js (ME)
 - change useInput Hooks
 - e.which ? e.keyCode
+
+## 8. Search
+
+#### 8.0 Search Screen Queries
+
+- Search - Container, Presenter, Queries, index
+- Queries => query searchPost, searchUser
+- Presenter => propTypes
+- Container => withRouter, props.location.search, useQuery
